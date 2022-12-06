@@ -1,1 +1,2 @@
-# m-j-projekt
+# abslowent4B
+Aplikacja do obsługi absolwentów
